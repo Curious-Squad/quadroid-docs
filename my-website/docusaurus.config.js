@@ -69,11 +69,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Beginners',
-                to: '/beginners/intro',
+                to: '/docs/beginners/intro',
               },
               {
                 label: 'Developers',
-                to: '/developers/intro',
+                to: '/docs/developers/intro',
               },
             ],
           },
